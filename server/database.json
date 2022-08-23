@@ -1,0 +1,274 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "Elegant Frozen Fish",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "price": "309.00",
+      "imageUrl": "https://picsum.photos/400?random=0",
+      "quantity": "8",
+      "inventoryStatus": "EN STOCK"
+    },
+    {
+      "id": 1,
+      "name": "Refined Rubber Fish",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "price": "871.00",
+      "imageUrl": "https://picsum.photos/400?random=1",
+      "quantity": "8",
+      "inventoryStatus": "EN STOCK"
+    },
+    {
+      "id": 2,
+      "name": "Fantastic Frozen Cheese",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "price": "363.00",
+      "imageUrl": "https://picsum.photos/400?random=2",
+      "quantity": "8",
+      "inventoryStatus": "EN STOCK"
+    },
+    {
+      "id": 3,
+      "name": "Tasty Rubber Pants",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "price": "961.00",
+      "imageUrl": "https://picsum.photos/400?random=3",
+      "quantity": "6",
+      "inventoryStatus": "EN STOCK"
+    },
+    {
+      "id": 4,
+      "name": "Refined Concrete Pizza",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "price": "224.00",
+      "imageUrl": "https://picsum.photos/400?random=4",
+      "quantity": "1",
+      "inventoryStatus": "BAJO STOCK"
+    },
+    {
+      "id": 5,
+      "name": "Refined Bronze Hat",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "price": "149.00",
+      "imageUrl": "https://picsum.photos/400?random=5",
+      "quantity": "9",
+      "inventoryStatus": "EN STOCK"
+    },
+    {
+      "id": 6,
+      "name": "Fantastic Plastic Salad",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "price": "167.00",
+      "imageUrl": "https://picsum.photos/400?random=6",
+      "quantity": "6",
+      "inventoryStatus": "EN STOCK"
+    },
+    {
+      "id": 7,
+      "name": "Bespoke Fresh Pizza",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "price": "327.00",
+      "imageUrl": "https://picsum.photos/400?random=7",
+      "quantity": "6",
+      "inventoryStatus": "EN STOCK"
+    },
+    {
+      "id": 8,
+      "name": "Tasty Concrete Chips",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "price": "996.00",
+      "imageUrl": "https://picsum.photos/400?random=8",
+      "quantity": "2",
+      "inventoryStatus": "BAJO STOCK"
+    },
+    {
+      "id": 9,
+      "name": "Generic Wooden Shoes",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "price": "107.00",
+      "imageUrl": "https://picsum.photos/400?random=9",
+      "quantity": "9",
+      "inventoryStatus": "EN STOCK"
+    },
+    {
+      "id": 10,
+      "name": "Generic Steel Shirt",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "price": "704.00",
+      "imageUrl": "https://picsum.photos/400?random=10",
+      "quantity": "9",
+      "inventoryStatus": "EN STOCK"
+    },
+    {
+      "id": 11,
+      "name": "Intelligent Frozen Pizza",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "price": "811.00",
+      "imageUrl": "https://picsum.photos/400?random=11",
+      "quantity": "4",
+      "inventoryStatus": "EN STOCK"
+    },
+    {
+      "id": 12,
+      "name": "Incredible Metal Gloves",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "price": "118.00",
+      "imageUrl": "https://picsum.photos/400?random=12",
+      "quantity": "2",
+      "inventoryStatus": "BAJO STOCK"
+    },
+    {
+      "id": 13,
+      "name": "Practical Granite Bike",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "price": "182.00",
+      "imageUrl": "https://picsum.photos/400?random=13",
+      "quantity": "2",
+      "inventoryStatus": "BAJO STOCK"
+    },
+    {
+      "id": 14,
+      "name": "Generic Cotton Tuna",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "price": "341.00",
+      "imageUrl": "https://picsum.photos/400?random=14",
+      "quantity": "5",
+      "inventoryStatus": "EN STOCK"
+    },
+    {
+      "id": 15,
+      "name": "Licensed Metal Towels",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "price": "531.00",
+      "imageUrl": "https://picsum.photos/400?random=15",
+      "quantity": "7",
+      "inventoryStatus": "EN STOCK"
+    },
+    {
+      "id": 16,
+      "name": "Gorgeous Cotton Ball",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "price": "488.00",
+      "imageUrl": "https://picsum.photos/400?random=16",
+      "quantity": "9",
+      "inventoryStatus": "EN STOCK"
+    },
+    {
+      "id": 17,
+      "name": "Handmade Fresh Shirt",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "price": "774.00",
+      "imageUrl": "https://picsum.photos/400?random=17",
+      "quantity": "8",
+      "inventoryStatus": "EN STOCK"
+    },
+    {
+      "id": 18,
+      "name": "Bespoke Rubber Shoes",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "price": "272.00",
+      "imageUrl": "https://picsum.photos/400?random=18",
+      "quantity": "7",
+      "inventoryStatus": "EN STOCK"
+    },
+    {
+      "id": 19,
+      "name": "Small Fresh Sausages",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "price": "316.00",
+      "imageUrl": "https://picsum.photos/400?random=19",
+      "quantity": "6",
+      "inventoryStatus": "EN STOCK"
+    },
+    {
+      "id": 20,
+      "name": "Incredible Plastic Hat",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "price": "243.00",
+      "imageUrl": "https://picsum.photos/400?random=20",
+      "quantity": "8",
+      "inventoryStatus": "EN STOCK"
+    },
+    {
+      "id": 21,
+      "name": "Rustic Metal Hat",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "price": "781.00",
+      "imageUrl": "https://picsum.photos/400?random=21",
+      "quantity": "6",
+      "inventoryStatus": "EN STOCK"
+    },
+    {
+      "id": 22,
+      "name": "Refined Cotton Pizza",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "price": "201.00",
+      "imageUrl": "https://picsum.photos/400?random=22",
+      "quantity": "3",
+      "inventoryStatus": "BAJO STOCK"
+    },
+    {
+      "id": 23,
+      "name": "Modern Metal Keyboard",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "price": "968.00",
+      "imageUrl": "https://picsum.photos/400?random=23",
+      "quantity": "5",
+      "inventoryStatus": "EN STOCK"
+    },
+    {
+      "id": 24,
+      "name": "Oriental Rubber Shoes",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "price": "384.00",
+      "imageUrl": "https://picsum.photos/400?random=24",
+      "quantity": "7",
+      "inventoryStatus": "EN STOCK"
+    },
+    {
+      "id": 25,
+      "name": "Tasty Rubber Fish",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "price": "661.00",
+      "imageUrl": "https://picsum.photos/400?random=25",
+      "quantity": "2",
+      "inventoryStatus": "BAJO STOCK"
+    },
+    {
+      "id": 26,
+      "name": "Fantastic Granite Table",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "price": "434.00",
+      "imageUrl": "https://picsum.photos/400?random=26",
+      "quantity": "4",
+      "inventoryStatus": "EN STOCK"
+    },
+    {
+      "id": 27,
+      "name": "Ergonomic Bronze Bacon",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "price": "418.00",
+      "imageUrl": "https://picsum.photos/400?random=27",
+      "quantity": "9",
+      "inventoryStatus": "EN STOCK"
+    },
+    {
+      "id": 28,
+      "name": "Incredible Steel Pizza",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "price": "606.00",
+      "imageUrl": "https://picsum.photos/400?random=28",
+      "quantity": "1",
+      "inventoryStatus": "BAJO STOCK"
+    },
+    {
+      "id": 29,
+      "name": "Gorgeous Soft Shoes",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "price": "836.00",
+      "imageUrl": "https://picsum.photos/400?random=29",
+      "quantity": "3",
+      "inventoryStatus": "BAJO STOCK"
+    }
+  ]
+}

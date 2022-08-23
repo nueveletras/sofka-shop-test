@@ -1,0 +1,58 @@
+<div class="card">
+  <p-toolbar styleClass="mb-4">
+      <ng-template pTemplate="left">
+          <button pButton pRipple label="Nuevo" icon="pi pi-plus" class="p-button-success mr-2" ></button>
+          <button pButton pRipple [label]="'Eliminar'" icon="pi pi-trash" class="p-button-danger" ></button>
+      </ng-template>
+
+      <ng-template pTemplate="right">
+          <button pButton pRipple label="Exportar" icon="pi pi-upload" class="p-button-help"></button>
+      </ng-template>
+  </p-toolbar>
+
+  <p-table #dt [value]="products" [rows]="10" [paginator]="true" [globalFilterFields]="['name','country.name','representative.name','status']" responsiveLayout="scroll"
+      [(selection)]="selectedProducts" [rowHover]="true" dataKey="id"
+      currentPageReportTemplate="Mostrando {first} a {last} de {totalRecords} registros" [showCurrentPageReport]="true">
+      <ng-template pTemplate="caption">
+          <div class="flex align-items-center justify-content-between">
+              <h5 class="m-0">Administración de productos</h5>
+              <span class="p-input-icon-left">
+                  <i class="pi pi-search"></i>
+                  <input pInputText type="text" (input)="search($event)" placeholder="Buscar..." />
+              </span>
+          </div>
+      </ng-template>
+      <ng-template pTemplate="header">
+          <tr>
+              <th style="width: 3rem">
+                  <p-tableHeaderCheckbox></p-tableHeaderCheckbox>
+              </th>
+              <th pSortableColumn="name">Nombre <p-sortIcon field="name"></p-sortIcon></th>
+              <th>Imagen</th>
+              <th pSortableColumn="price">Precio <p-sortIcon field="price"></p-sortIcon></th>
+              <th pSortableColumn="inventoryStatus">Estado <p-sortIcon field="inventoryStatus"></p-sortIcon></th>
+              <th></th>
+          </tr>
+      </ng-template>
+      <ng-template pTemplate="body" let-product>
+          <tr>
+              <td>
+                  <p-tableCheckbox [value]="product"></p-tableCheckbox>
+              </td>
+              <td>{{product.name}}</td>
+              <td><img [src]="product.imageUrl" [alt]="product.name" width="100" class="shadow-4" /></td>
+              <td>{{product.price | currency:'USD'}}</td>
+              <td><span [class]="'product-badge status-' + (product.inventoryStatus ? product.inventoryStatus.toLowerCase() : '')">{{product.inventoryStatus}}</span></td>
+              <td>
+                  <button pButton pRipple icon="pi pi-pencil" class="p-button-rounded p-button-success mr-2" (click)="editProduct(product)"></button>
+                  <button pButton pRipple icon="pi pi-trash" class="p-button-rounded p-button-warning" (click)="deleteProduct(product)"></button>
+              </td>
+          </tr>
+      </ng-template>
+      <ng-template pTemplate="summary">
+          <div class="flex align-items-center justify-content-between">
+              En total hay {{products ? products.length : 0 }} productos.
+          </div>
+      </ng-template>
+  </p-table>
+</div>
